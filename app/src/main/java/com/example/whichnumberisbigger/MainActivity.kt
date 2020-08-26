@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         // do your initial setup here in the onCreate
         // generate two random numbers
         // assign those numbers to the buttons
-        // set on initial score to 0
+        // set the  initial score to 0
         newNumbers()
     }
 
